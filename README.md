@@ -1,4 +1,8 @@
 ## This is my first GitHub website #awesomesauce
+
+<div align="center"><img src="240726619_4549733321706369_5291166208012581345_n.jpg" width="200" height="200" alt="description-of-image" /></div>
+
+
 You can use the [editor on GitHub](https://github.com/AJBrillantes/AJBrillantes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
